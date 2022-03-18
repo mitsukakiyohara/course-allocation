@@ -1,2 +1,4 @@
 # course-allocation
-Code for Course Allocation Research (Mentor: Dr. Ishihata of NTT Communication Science Laboratories)
+Code for Course Allocation Research
+Written in Ruby 
+
